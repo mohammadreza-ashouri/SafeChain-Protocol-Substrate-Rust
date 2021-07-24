@@ -1,0 +1,2 @@
+# SafeChain-Protocol-Substrate-Rust
+SafeChain is an experimental privacy-protecting protocol on top of Substrate,  which is still an under-development project. SafeChain will be responsible for providing a secure substrate modules for protecting user's privacy and sensitive data stored on chain. It is designed to get efficient zero-knowledge proving, reduce the on-chain storage cost and bring the flexibility for developing applications, particularly for  media streaming platforms.
